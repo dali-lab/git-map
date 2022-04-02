@@ -30,5 +30,13 @@
     "message": "Hello world",
     "lat_long": [39.640259, -106.370872],
     "year": "'22"
+  },
+  {
+    "name": "Miruna Palaghean",
+    "iconUrl": "images/mozzi.jpg",
+    "url": "//miruna.me",
+    "message": "…ᘛ⁐̤ᕐᐷ",
+    "lat_long": [47.6639458, 26.1915651],
+    "year": "'25"
   }
 ]
